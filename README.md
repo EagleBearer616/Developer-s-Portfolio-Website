@@ -43,3 +43,9 @@ Upon visiting the site, users are greeted with a homepage showcasing highlighted
 ## Real-World Use and Impact
 This project is ideal for developers seeking an all-in-one personal branding tool. It combines the best aspects of a portfolio, resume, and LinkedIn-like interaction platform. Especially for freelance developers or job seekers, this solution offers a digital space to demonstrate capabilities and network effectively.
 
+
+## OUTPUT
+
+<img width="1907" height="962" alt="Image" src="https://github.com/user-attachments/assets/90c7618b-1728-48b7-aa5d-ea6358f410e6" />
+
+<img width="1903" height="961" alt="Image" src="https://github.com/user-attachments/assets/05742d09-a809-4555-b5ec-667fa86ad4fe" />
